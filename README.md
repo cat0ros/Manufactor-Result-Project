@@ -7,4 +7,4 @@ It's final work for course "VR in machine building". Developed in Unity3d with u
 3. Дарина Рожкова
 4. Варвара Гришина
 
-![image](https://github.com/cat0ros/Manufactor-Result-Project/assets/37041700/343f4d03-9d29-4995-90ba-90fc80a00621)
+![image](https://github.com/cat0ros/Manufactor-Result-Project/assets/37041700/c7aa793d-9b66-4be8-b539-9529a9686a06)
